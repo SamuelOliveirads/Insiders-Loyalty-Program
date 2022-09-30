@@ -8,7 +8,6 @@ s3fs==2022.8.2
 s3transfer==0.6.0
 scikit-learn==1.1.1
 scikit-learn-extra==0.2.0
-scikit-learn-intelex==2021.20220215.102710
 scipy==1.7.3
 SQLAlchemy==1.4.39
 umap-learn==0.5.3
