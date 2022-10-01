@@ -1,8 +1,10 @@
+numba==0.55.1
 numpy==1.21.5
 pandas==1.4.3
 papermill==2.4.0
 pip==22.1.2
 psycopg2==2.8.6
+pynndescent==0.5.4
 regex==2022.7.9
 s3fs==2022.8.2
 s3transfer==0.6.0
