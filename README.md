@@ -112,6 +112,10 @@ Principais características:
 |--------------|-------------|---------------|---------------|--------------|--------------|----------|-------------------|
 | Insiders     |	416      |	  7.324      |	8299.489    |	38.005     |   244.173    |  	0.028 |   0.015       |
 
+As métricas do Metabase são:
+
+![H9](reports/Metabase.png)
+
 # 8. Conclusions
 
 Em resumo um grupo de fidelidade demonstra grande importante a medida de que os clientes Insiders contribuem para uma alta parcela do faturamento, assim as segmentações auxiliam a definir estratégias que melhoram o faturamento da empresa.
